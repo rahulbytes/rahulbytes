@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Got into core Data Analysis since last year<br>📚 I'm currently learning Python<br>🎯 Goals: To become an successful Analyst<br>🎲 Fun fact: I think I am Job ready<br>My Linkedin: www.linkedin.com/in/rahul-dey-05b983191</p>
+<p align="left">✨ Got into core Data Analysis since last year<br>📚 I'm currently learning Python<br>🎯 Goals: To become an successful Analyst<br>🎲 Fun fact: I think I am Job ready<br>My Linkedin: www.linkedin.com/in/rahuldey2003</p>
 
 ###
 

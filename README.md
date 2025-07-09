@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rahul Dey<br>I am a passionate Data Analyst</p>
+<p align="left">My name is Rahul Dey<br>I am currently working in Genpact as an Associate for GE Healthcare in their IB Team US & Canda. My job usually requires me to work with different stakeholders, solving their business needs in CRM and working on with Excel to get the data and find workable opportunities. I am very passionate about the field of Data analytics and currently working on to get an opprtunitity to work on it. I have profound knowledge in SQL(Postgres),MS Excel, Power BI, Python(in-progress) and Tabelau(most probably in sometime). </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Got into core Data Analysis since last year<br>📚 I'm currently learning Python<br>🎯 Goals: To become an successful Analyst<br>🎲 Fun fact: I think I am Job ready<br>My Linkedin: www.linkedin.com/in/rahuldey2003</p>
+<p align="left">✨My Linkedin: www.linkedin.com/in/rahuldey2003</p>
 
 ###
 

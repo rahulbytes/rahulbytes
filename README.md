@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rahul Dey<br>I am currently working in Genpact as an Associate for GE Healthcare in their IB Team US & Canda. My job usually requires me to work with different stakeholders, solving their business needs in CRM and working on with Excel to get the data and find workable opportunities. I am very passionate about the field of Data analytics and currently working on to get an opprtunitity to work on it. I have profound knowledge in SQL(Postgres),MS Excel, Power BI, Python(in-progress) and Tabelau(most probably in sometime). </p>
+<p align="left">My name is Rahul Dey<br>I am currently working in Genpact as an Associate for GE Healthcare in their IB Team US & Canda. My job usually requires me to work with different stakeholders, solving their business needs in CRM and working on with Excel to get the data  and Power BI Dashboards for cleints. I have profound knowledge in SQL(Postgres),MS Excel, Power BI, Python(in-progress) and Tabelau(most probably in sometime). </p>
 
 ###
 
